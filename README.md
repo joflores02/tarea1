@@ -2,4 +2,4 @@
 
 Integrantes: 
 -Cristóbal Ignacio Henriquez Torres
--
+-Jocabed Aileen López Flores
