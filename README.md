@@ -1,1 +1,5 @@
-# tarea1
+# Tarea1_ProgramacionII
+
+Integrantes: 
+-Cristóbal Ignacio Henriquez Torres
+-
